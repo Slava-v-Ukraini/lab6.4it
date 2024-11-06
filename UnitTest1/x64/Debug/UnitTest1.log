@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+D:\VS\VS code\PR6.4it\PR6.4it.cpp(71,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\VS\VS code\PR6.4it\PR6.4it.cpp(67,1): error C4716: 'CompressArray': must return a value
